@@ -6,6 +6,7 @@ public class MavneClassTest {
 	public void printText()
 	{
 		System.out.println("Congrats!");
+		System.out.println("Congrats again!");
 	}
 
 }
